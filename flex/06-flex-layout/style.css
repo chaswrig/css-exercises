@@ -32,6 +32,11 @@ input {
 
 ul {
   list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 .header,
